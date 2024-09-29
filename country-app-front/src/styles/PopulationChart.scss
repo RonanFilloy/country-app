@@ -1,0 +1,21 @@
+.pop__chart {
+  width: 80%;
+  height: 90%;
+  margin: auto;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+@media (max-width: 800px) {
+  .pop__chart {
+    width: 95%;
+    height: 100%;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+}
